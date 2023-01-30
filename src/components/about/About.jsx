@@ -36,13 +36,14 @@ const About = () => {
               <h5>Projects</h5>
               <small>10+ and growing</small>
             </article>
-
+            </div>
             <p>
-              blah blah........................
+            A self-motivated software developer with entry-level experience, 
+            interested in building alongside collaborative and like-minded colleagues 
+            and companies who share the same drive for exceptional craft and human-centric products.
             </p>
 
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
-          </div>
           </div>
       </div>
     </section>
