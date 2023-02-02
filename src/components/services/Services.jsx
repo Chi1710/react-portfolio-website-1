@@ -4,8 +4,16 @@ import "./services.css"
 const Services = () => {
   return (
     <section id="services">
-      Services
-      </section>
+      <h5>What I Offer</h5>
+      <h2>Services</h2>
+      <div className='container services__container'>
+        <article>
+          <div className='servies__head'>
+            <h3>UI/UX Design</h3>
+          </div>
+        </article>
+      </div>
+    </section>
   )
 }
 
