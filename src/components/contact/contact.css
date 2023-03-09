@@ -50,7 +50,6 @@ input, textarea {
     border: 2px solid var(--color-primary);
     resize: none;
     color: var(--color-white);
-    font-size: 90%;
 }
 
 /* ======= media queries (medium devices)(tablets) ++++++++++*/
