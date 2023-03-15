@@ -3,7 +3,10 @@ import "./footer.css";
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>
+      <a href="/" className='footer__logo'>Chi</a>
+
+    </footer>
   )
 }
 
